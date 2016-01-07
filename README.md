@@ -132,14 +132,15 @@ On July 3, the Black Knights, a squadron of Marine Corps F/A-18 Hornets, partici
 
 使用连续的三个`` ` ``符号来将多行文本显示为一个独立的区块。
 
-````
+<pre>
 看看我写的程序：
+
 ```
 x = 0
 x = 2 + 2
 what is x
 ```
-````
+</pre>
 
 ### 链接
 
